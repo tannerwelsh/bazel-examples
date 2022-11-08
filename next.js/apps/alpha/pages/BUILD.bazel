@@ -18,6 +18,8 @@ ts_project(
         "//:node_modules/@types/react-dom",
         "//:node_modules/next",
         "//apps/alpha:node_modules/@types/is-even",
+        "//apps/alpha:node_modules/@aws-amplify/ui-react",
+        "//apps/alpha:node_modules/aws-amplify",
         "//apps/alpha/pages/api",
         "//apps/alpha/styles",
     ],
