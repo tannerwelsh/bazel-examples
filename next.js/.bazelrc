@@ -1,1 +1,4 @@
 test --test_output=errors
+
+# To enable bypassing of sandbox bug in Node app building
+common --incompatible_allow_tags_propagation
